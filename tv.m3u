@@ -106,7 +106,7 @@ https://tv.telewizja-online.xyz/WP/index.m3u8
 #EXTINF:0 type="stream" tvg-name="Fokus TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/fokustv.png" tvg-country="PL",Fokus TV
 https://tv.telewizja-online.xyz/FokusTV/index.m3u8
 #EXTINF:0 type="stream" tvg-name="Polsat Doku" tvg-logo="https://epg.ovh/logo/Polsat+Doku1.png" tvg-country="PL",Polsat Doku
-https://tv.telewizja-online.xyz/POolsatdoku/index.m3u8
+http://media1.ibrandmask.com:6005/o_polsatdokuhd/index.m3u8?token=ee8b579f973a51ec976576e91b1553b5.9132031bc15909f2614b24e7501b00f4dc9360b179a15ab79ba434e63288436dea9d34da8c4d23936e3d922585ebd7ef031a6f7f2dade4e9562ef81903acfce485978a2de23790d2b7570ab3808cd1c8992c75b669221ca17575edeecef8a416f716062e92225b58e34034e7866389f1fa03bd2eb7117d4734467179c5515811.rAPY6X9GxojszW05.l&p=n
 #EXTINF:0 type="stream" tvg-name="History" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/historychannelhd.png" tvg-country="PL",History
 https://tv.telewizja-online.xyz/History/index.m3u8
 #EXTINF:0 type="stream" tvg-name="H2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/h2hd.png" tvg-country="PL",History 2
