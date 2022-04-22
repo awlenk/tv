@@ -69,14 +69,6 @@ http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=213f9b5775ca164e0a38ad1b1
 http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Kino TV" tvg-logo="https://epg.ovh/logo/Kino+TV.png" tvg-country="PL",Kino TV
 http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="Filmbox Extra" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxextrahdsvt.png" tvg-country="PL",Filmbox Extra
-http://media1.ibrandmask.com:6005/o_filmboxextrahd/index.m3u8?token=cac191e6f0f24688189e7934029bc461.0dcdd2f6b48fda143d59433087cb01400c8438833eafe055017e8821ef2d158240a9685f9f7acd2386855cf9f4849cb85da91fbaa89bfd479812513609e453b19ca7fc5b508df0c43bc2201b94d7d604dde5408a154dc3b46dcf1985f5811df09bc8a8c6fa1e6078282f07e172dc24e71d563315538306eedd410d437b094122.RBsrplsBDa8iDjO8.l&p=n
-#EXTINF:0 type="stream" tvg-name="Filmbox Action" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxaction.png" tvg-country="PL",Filmbox Action
-http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="Filmbox Family" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxfamilysvt.png" tvg-country="PL",Filmbox Family
-http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
-#EXTINF:0 type="stream" tvg-name="Filmbox Arthouse" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/filmboxextrahdsvt.png" tvg-country="PL",Filmbox Arthouse
-http://media1.ibrandmask.com:6005/o_filmboxarthousehd/index.m3u8?token=e91326896e1fc741ca23263f9ed54da9.e3312db366c801554678d1ccc11097231d3e3e98474381da68d8650994b8c869b70d9c8286c4fbd56f74b9fabfab7fd9d310600f78b2232d65e093c261364ec6b8a2629e31d67f00ed9dfca8a2b0144bce32e18bcca4a66ad54106fcb4a658337e2bde1f2ed9acd3bf113934d2a99e46551763825b7c5930a0a2cfb4e2286cfa.VW2TUYdW4cfHD1tB.l&p=n
 #EXTINF:0 type="stream" tvg-name="Filmbox Premium" tvg-logo="http://s19.postimg.cc/kfhczm9w3/Filmbox_Premium.png" tvg-country="PL",Filmbox Premium
 https://tv.telewizja-online.xyz/FilmboxPremium/index.m3u8
 #EXTINF:0 type="stream" tvg-name="TV Puls" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvpulshd.png" tvg-country="PL",Puls
