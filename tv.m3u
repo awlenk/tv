@@ -8,9 +8,9 @@ http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=213f9b5775ca164e0a38ad1b1a7c
 #EXTINF:0 type="stream" tvg-name="Tvp Seriale" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvpseriale.png" tvg-country="PL",Tvp Seriale
 http://internetowa.tv/?c=hlsPlay&channel=tvpseriale&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Tvp HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvphd.png" tvg-country="PL",Tvp HD
-https://tv.telewizja-online.xyz/TVPHD/index.m3u8
+http://92.233.53.80:8001/1:0:1:1138:2af8:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="TVP Rozrywka" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvprozrywka.png" tvg-country="PL",TVP Rozrywka
-https://tv.telewizja-online.xyz/TVPROZRYWKA/index.m3u8
+http://media61.ibrandmask.com:6005/o_tvprozrywka/index.m3u8?token=26114834697adbac872357e87341fd73.bcfba39994ef5937e5c4ee4b168fed725eb8e98fc37b28ef9b381137d8da7d0c3b664447000840bc72a00f09f2b98f3781706eb6a369c6c1ab7436cb5c34bb0c31c1b6531fc73790141b3a8d803b7452dec5a2946cb3972fab57d622bdd24a725dfb5f5aa6edc376015e006387dbe9301cbd6598d06403885c13558788342988.QgfQ2RBU6yJgNnym.l&p=n
 #EXTINF:0 type="stream" tvg-name="Tvn" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvnhd.png" tvg-country="PL",Tvn
 http://internetowa.tv/?c=hlsPlay&channel=tvn&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Tvn 7" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvn7hd.png" tvg-country="PL",Tvn 7
