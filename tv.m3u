@@ -86,15 +86,15 @@ http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=213f9b5775ca164e0a38ad1
 #EXTINF:0 type="stream" tvg-name="Comedy Central Polska" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/comedycenthd.png" tvg-country="PL",Comedy Central
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Comedy-Central-Family" tvg-logo="http://s19.postimg.cc/vfypzexzn/Comedy_Central_Family.png" tvg-country="PL",Comedy Central Family
-https://tv.telewizja-online.xyz/ComedyCentralFamily/index.m3u8
+http://92.233.53.80:8001/1:0:1:10:1964:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Metro" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/metrotv.png" tvg-country="PL",Metro
-https://tv.telewizja-online.xyz/Metro/index.m3u8
+http://92.233.53.80:8001/1:0:1:4287:2bc0:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Zoom TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/zoom.png" tvg-country="PL",Zoom
-https://tv.telewizja-online.xyz/Zoom/index.m3u8
+http://92.233.53.80:8001/1:0:1:4291:2bc0:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Nowa TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/nowatv.png" tvg-country="PL",Nowa TV
 http://media61.ibrandmask.com:6005/pl_nowatv/index.m3u8?token=07b4d7a43f48248ce53cdd3940c637fb.a97f4630b449709eb4bb44f167763fec7a6d162c6991911a2d813f028748642365e9ef1cc81127679478ec910527b9c5baa7e3ae8ab5129aa376381ad69ee0abf6a56be7d483fabcb0eee7011339fabb3bd9c20ef68aab146c431de26c7e9bf254a1b838a07c846faa57805af6033aeb.ylcx999XDNodnYba.l&p=n
 #EXTINF:0 type="stream" tvg-name="WP" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/wp1.png" tvg-country="PL",WP
-https://tv.telewizja-online.xyz/WP/index.m3u8
+http://92.233.53.80:8001/1:0:1:3D5A:2C88:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Fokus TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/fokustv.png" tvg-country="PL",Fokus TV
 http://internetowa.tv/?c=hlsPlay&channel=fokustv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat Doku" tvg-logo="https://epg.ovh/logo/Polsat+Doku1.png" tvg-country="PL",Polsat Doku
@@ -102,7 +102,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatdoku&token=213f9b5775ca164e0a38ad
 #EXTINF:0 type="stream" tvg-name="History" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/historychannelhd.png" tvg-country="PL",History
 http://internetowa.tv/?c=hlsPlay&channel=history&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="H2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/h2hd.png" tvg-country="PL",History 2
-https://tv.telewizja-online.xyz/H2/index.m3u8
+http://92.233.53.80:8001/1:0:1:3e22:2ee0:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="National Geographic" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/natgeohdcz.png" tvg-country="PL",National Geographic
 http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Discovery" tvg-logo="http://s19.postimg.cc/lnw1trn2r/Discovery_Channel.png" tvg-country="PL",Discovery
