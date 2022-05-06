@@ -8,9 +8,9 @@ http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=213f9b5775ca164e0a38ad1b1a7c
 #EXTINF:0 type="stream" tvg-name="Tvp Seriale" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvpseriale.png" tvg-country="PL",Tvp Seriale
 http://internetowa.tv/?c=hlsPlay&channel=tvpseriale&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Tvp HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvphd.png" tvg-country="PL",Tvp HD
-http://92.233.53.80:8001/1:0:1:1138:2af8:13e:820000:0:0:0:
+http://79.143.17.78:2085/play/a059/index.m3u8
 #EXTINF:0 type="stream" tvg-name="TVP Rozrywka" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvprozrywka.png" tvg-country="PL",TVP Rozrywka
-http://media61.ibrandmask.com:6005/o_tvprozrywka/index.m3u8?token=26114834697adbac872357e87341fd73.bcfba39994ef5937e5c4ee4b168fed725eb8e98fc37b28ef9b381137d8da7d0c3b664447000840bc72a00f09f2b98f3781706eb6a369c6c1ab7436cb5c34bb0c31c1b6531fc73790141b3a8d803b7452dec5a2946cb3972fab57d622bdd24a725dfb5f5aa6edc376015e006387dbe9301cbd6598d06403885c13558788342988.QgfQ2RBU6yJgNnym.l&p=n
+http://194.76.186.151:20009/play/TVP_Rozrywka
 #EXTINF:0 type="stream" tvg-name="Tvn" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvnhd.png" tvg-country="PL",Tvn
 http://internetowa.tv/?c=hlsPlay&channel=tvn&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Tvn 7" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvn7hd.png" tvg-country="PL",Tvn 7
@@ -36,7 +36,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=213f9b5775ca164e0a38ad
 #EXTINF:0 type="stream" tvg-name="Super Polsat" tvg-logo="https://epg.ovh/logo/Super+Polsat1.png" tvg-country="PL",Super Polsat
 http://internetowa.tv/?c=hlsPlay&channel=superpolsat&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat Seriale" tvg-logo="https://epg.ovh/logo/Polsat+Seriale1.png" tvg-country="PL",Polsat Seriale
-http://92.233.53.80:8001/1:0:19:1CAC:1CE8:71:820000:0:0:0:
+http://194.76.186.151:20003/play/Polsat_Seriale_HD
 #EXTINF:0 type="stream" tvg-name="Polsat Play" tvg-logo="https://epg.ovh/logo/Polsat+Play1.png" tvg-country="PL",Polsat Play
 http://internetowa.tv/?c=hlsPlay&channel=polsatplay&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat Cafe" tvg-logo="https://epg.ovh/logo/Polsat+Cafe.png" tvg-country="PL",Polsat Cafe
@@ -60,8 +60,8 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=213f9b5775ca164e0
 #EXTINF:0 type="stream" tvg-name="Canal+ Film2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/canalplusserialehd-lichoridas.png" tvg-country="PL",Canal+ Seriale
 http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Paramount Channel HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountchannelhd.png" tvg-country="PL",Paramount Channel
-http://89.249.49.78:8000/play/a0d6
-#EXTINF:0 type="stream" tvg-name="Tnt" tvg-logo="https://epg.ovh/logo/TNT.png" tvg-country="PL",Warner TV
+http://194.76.186.151:20010/play/Paramount_Channel_HD
+#EXTINF:0 type="stream" tvg-name="Warner TV" tvg-logo="https://epg.ovh/logo/Warner+TV.png" tvg-country="PL",Warner TV
 http://internetowa.tv/?c=hlsPlay&channel=tnt&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Cinemax" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cinemaxhd.png" tvg-country="PL",Cinemax
 http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
@@ -86,7 +86,7 @@ http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=213f9b5775ca164e0a38ad1
 #EXTINF:0 type="stream" tvg-name="Comedy Central Polska" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/comedycenthd.png" tvg-country="PL",Comedy Central
 http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Comedy-Central-Family" tvg-logo="http://s19.postimg.cc/vfypzexzn/Comedy_Central_Family.png" tvg-country="PL",Comedy Central Family
-http://92.233.53.80:8001/1:0:1:10:1964:13E:820000:0:0:0:
+http://194.76.186.151:20010/play/Comedy_Central_Family
 #EXTINF:0 type="stream" tvg-name="Metro" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/metrotv.png" tvg-country="PL",Metro
 http://92.233.53.80:8001/1:0:1:4287:2bc0:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Zoom TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/zoom.png" tvg-country="PL",Zoom
@@ -110,7 +110,7 @@ http://internetowa.tv/?c=hlsPlay&channel=discovery&token=213f9b5775ca164e0a38ad1
 #EXTINF:0 type="stream" tvg-name="Discovery Science" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoverysciencehd.png" tvg-country="PL",Discovery Science
 http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="DTX" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoveryturboxtrahd.png" tvg-country="PL",Discovery Turbo Xtra
-https://tv.telewizja-online.xyz/DTX/index.m3u8
+http://194.76.186.151:20008/play/DTX
 #EXTINF:0 type="stream" tvg-name="BBC-Brit" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/bbcbrithdn.png" tvg-country="PL",Bbc Brit
 http://92.233.53.80:8001/1:0:1:7E0:22C4:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Travel Channel" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/travelchannelhdcz.png" tvg-country="PL",Travel Channel
@@ -120,7 +120,7 @@ http://internetowa.tv/?c=hlsPlay&channel=planeteplus&token=213f9b5775ca164e0a38a
 #EXTINF:0 type="stream" tvg-name="Hgtv" tvg-logo="https://epg.ovh/logo/HGTV.png" tvg-country="PL",Hgtv
 https://tv.telewizja-online.xyz/HGTV/index.m3u8
 #EXTINF:0 type="stream" tvg-name="Domo TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/domoplushd.png" tvg-country="PL",Domo+
-https://tv.telewizja-online.xyz/Dono/index.m3u8
+http://194.76.186.151:20005/play/DOMO_HD
 #EXTINF:0 type="stream" tvg-name="Kuchnia.TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/kuchniaplushd.png" tvg-country="PL",Kuchnia+
 http://internetowa.tv/?c=hlsPlay&channel=kuchniaplus&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Polsat Food" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatfoodhd.png" tvg-country="PL",Food Network
@@ -138,7 +138,7 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=213f9b5775ca16
 #EXTINF:0 type="stream" tvg-name="Discovery Historia" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/discoveryhistoria.png" tvg-country="PL",Discovery Historia
 https://tv.telewizja-online.xyz/DiscoveryHistoria/index.m3u8
 #EXTINF:0 type="stream" tvg-name="ID" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/idhd.png" tvg-country="PL",Investigation Discovery
-https://tv.telewizja-online.xyz/ID/index.m3u8
+http://194.76.186.151:20008/play/ID_HD
 #EXTINF:0 type="stream" tvg-name="Crime and Investigation" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cicrimeplusinvhd.png" tvg-country="PL",Polsat Crime
 http://internetowa.tv/?c=hlsPlay&channel=cipolsat&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat Explorer" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasatexplorehd.png" tvg-country="PL",Polsat Viasat Explore
@@ -146,7 +146,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=213f9b5775ca1
 #EXTINF:0 type="stream" tvg-name="Viasat History" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatviasathistoryhd.png" tvg-country="PL",Polsat Viasat History
 http://internetowa.tv/?c=hlsPlay&channel=polsatviasathistory&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Viasat Nature" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/viasatnaturehd.png" tvg-country="PL",Polsat Viasat Nature
-http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://194.76.186.151:20013/play/Polsat_Viasat_Nature_HD
 #EXTINF:0 type="stream" tvg-name="Adventure" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/adventurehd.png" tvg-country="PL",Adventure
 http://92.233.53.80:8001/1:0:19:10E9:3E8:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="ActiveFamily" tvg-logo="https://epg.ovh/logo/Active+Family.png" tvg-country="PL",Active Family
@@ -168,7 +168,7 @@ http://92.233.53.80:8001/1:0:1:4282:2bc0:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Cbs Reality" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cbsrealityce.png" tvg-country="PL",Cbs Reality
 http://92.233.53.80:8001/1:0:1:3d5b:2c88:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="CBS Europa HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cbseuropa.png" tvg-country="PL",Cbs Europa
-http://92.233.53.80:8001/1:0:1:290b:1edc:71:820000:0:0:0:
+http://194.76.186.151:20013/play/CBS_Europa_HD
 #EXTINF:0 type="stream" tvg-name="Tvp Historia" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tvphistoria.png" tvg-country="PL",Tvp Historia
 http://internetowa.tv/?c=hlsPlay&channel=tvphistoria&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="E! Entertainment" tvg-logo="https://epg.ovh/logo/E!+Entertainment.png" tvg-country="PL",E!
@@ -194,9 +194,9 @@ http://internetowa.tv/?c=hlsPlay&channel=scifi&token=213f9b5775ca164e0a38ad1b1a7
 #EXTINF:0 type="stream" tvg-name="Axn" tvg-logo="http://s19.postimg.cc/sgin8mlxv/axn.png" tvg-country="PL",Axn
 http://internetowa.tv/?c=hlsPlay&channel=axn&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Axn White" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/axnwhitehd.png" tvg-country="PL",Axn White
-https://tv.telewizja-online.xyz/AXNWhite/index.m3u8
+http://194.76.186.151:20003/play/AXN_White
 #EXTINF:0 type="stream" tvg-name="Axn Black" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/axnblackhd.png" tvg-country="PL",Axn Black
-http://media1.ibrandmask.com:6005/pl_axnblack/index.m3u8?token=178d0756f5688dbb81396a5e644e5c1a.8110048ee106d6303c788906ef299e69b78d7884e2a073ce5b774272cee65998d35798aa4dd268310f933873c3fc74c4acfef8076cfc316f7e2777398e70f67d08ecbc35f095f88d4525a7339aef6cf01b69f315a9b3440f2d77a8b39f05ae97ef91f080fa15f8109284ae2f1af6e0f8.0S8XzDCACjQXMvhE.l&p=n
+http://194.76.186.151:20003/play/AXN_Black
 #EXTINF:0 type="stream" tvg-name="AXNSpinHD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/axnspinhd.png" tvg-country="PL",Axn Spin
 http://92.233.53.80:8001/1:0:1:3d5d:2c88:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="EPIC Drama HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/epicdramahd.png" tvg-country="PL",Epic Drama
@@ -206,7 +206,7 @@ http://internetowa.tv/?c=hlsPlay&channel=scifi&token=213f9b5775ca164e0a38ad1b1a7
 #EXTINF:0 type="stream" tvg-name="TV Klodzka HD" tvg-logo="https://epg.ovh/logo/NC++PR.png" tvg-country="PL",TV Klodzka HD
 http://176.102.89.77:7654/udp/239.239.4.141:1234
 #EXTINF:0 type="stream" tvg-name="AMC HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/amcfrombthd.png" tvg-country="PL",Amc
-https://tv.telewizja-online.xyz/AMC/index.m3u8
+http://194.76.186.151:20008/play/AMC
 #EXTINF:0 type="stream" tvg-name="Polsat Rodzina" tvg-logo="https://epg.ovh/logo/Polsat+Rodzina1.png" tvg-country="PL",Polsat Rodzina
 http://92.233.53.80:8001/1:0:1:1c8f:1ce8:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Polsat Romans" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatromans.png" tvg-country="PL",Polsat Romans
@@ -220,7 +220,7 @@ http://internetowa.tv/?c=hlsPlay&channel=tvppolonia&token=213f9b5775ca164e0a38ad
 #EXTINF:0 type="stream" tvg-name="Tele 5" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tele5hdaustria.png" tvg-country="PL",Tele 5
 http://92.233.53.80:8001/1:0:1:423b:3db8:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Motowizja TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/motowizjatv.png" tvg-country="PL",Motowizja TV
-https://tv.telewizja-online.xyz/Motowizja/index.m3u8
+http://194.76.186.151:20006/play/Motowizja_HD
 #EXTINF:0 type="stream" tvg-name="nSport" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/nsportplushd.png" tvg-country="PL",nSport+
 http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Canalplus Sport" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/canalplussporthd-lichoridas.png" tvg-country="PL",Canal+ Sport
@@ -228,9 +228,9 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=213f9b5775ca164e0a
 #EXTINF:0 type="stream" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/canalplussport2hd-lichoridas.png" tvg-country="PL",Canal+ Sport 2
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Canal+ Sport 3" tvg-logo="http://media.teleman.pl/logos/m/186.png" tvg-country="PL",Canal+ Sport 3
-http://92.233.53.80:8001/1:0:1:12c2:2e7c:13e:820000:0:0:0:
+http://194.76.186.151:20007/play/CANAL_SPORT_3_HD
 #EXTINF:0 type="stream" tvg-name="Canal+ Sport 4" tvg-logo="http://media.teleman.pl/logos/m/187.png" tvg-country="PL",Canal+ Sport 4
-http://92.233.53.80:8001/1:0:1:12c3:2e7c:13e:820000:0:0:0:
+http://194.76.186.151:20007/play/CANAL_SPORT_4_HD
 #EXTINF:0 type="stream" tvg-name="Canal+ Now" tvg-logo="https://epg.ovh/logo/Canal++Now.png" tvg-country="PL",Canal+ Now
 http://92.233.53.80:8001/1:0:1:32cd:190:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Eurosport" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport1hdaustria.png" tvg-country="PL",Eurosport 1
@@ -296,23 +296,23 @@ http://92.233.53.80:8001/1:0:1:2011:24b8:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Mini Mini" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/miniminiplushd.png" tvg-country="PL",Minimini+
 http://internetowa.tv/?c=hlsPlay&channel=miniminiplus&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Nick Jr" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/nickjrhd.png" tvg-country="PL",Nick Jr.
-http://217.61.2.227/stream/bmdMbjkwMTl3RzQzdUxRZGs5em5pcitPby9RdTVuSmNpVWVWZXpDSFZiNThCVGk3RVdIZFR0Y1FnVmZ5aEFZbzZ5UmxUOEZwb2ZTcUNzb3c4blNsMFE9PQ==/102/index.m3u8
+http://194.76.186.151:20010/play/Nick_Jr
 #EXTINF:0 type="stream" tvg-name="teleTOON+" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/teletoonplushd-lichoridas.png" tvg-country="PL",teleTOON+
 http://92.233.53.80:8001/1:0:19:377D:44C:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Disney Channel" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/disneychannelhdaustria.png" tvg-country="PL",Disney Channel
-https://tv.telewizja-online.xyz/DisneyChannel/index.m3u8
+http://194.76.186.151:20003/play/Disney_Channel_HD
 #EXTINF:0 type="stream" tvg-name="Disney XD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/disneyxdhd.png" tvg-country="PL",Disney XD
-http://217.61.2.227/stream/bmdMbjkwMTl3RzQzdUxRZGs5em5pcitPby9RdTVuSmNpVWVWZXpDSFZiNThCVGk3RVdIZFR0Y1FnVmZ5aEFZbzZ5UmxUOEZwb2ZTcUNzb3c4blNsMFE9PQ==/131/index.m3u8
+http://194.76.186.151:20003/play/Disney_XD
 #EXTINF:0 type="stream" tvg-name="Disney Jr" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/disneyjuniorhd.png" tvg-country="PL",Disney Junior
 http://internetowa.tv/?c=hlsPlay&channel=disneyjunior&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Cartoon-Network" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cartoonnethd.png" tvg-country="PL",Cartoon Network
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="Nickelodeon Polska" tvg-logo="https://iptvextreme.org/picon/GENERAL/nickelodeonhd.png" tvg-country="PL",Nickelodeon
-http://217.61.2.227/stream/bmdMbjkwMTl3RzQzdUxRZGs5em5pcitPby9RdTVuSmNpVWVWZXpDSFZiNThCVGk3RVdIZFR0Y1FnVmZ5aEFZbzZ5UmxUOEZwb2ZTcUNzb3c4blNsMFE9PQ==/103/index.m3u8
+http://194.76.186.151:20010/play/Nickelodeon
 #EXTINF:0 type="stream" tvg-name="Nickelodeon HD" tvg-logo="https://iptvextreme.org/picon/GENERAL/nicktoons.png" tvg-country="PL",Nick Toons
-http://92.233.53.80:8001/1:0:19:E:1964:13E:820000:0:0:0:
+http://194.76.186.151:20010/play/Nicktoons_HD
 #EXTINF:0 type="stream" tvg-name="Boomerang" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/boomeranghd.png" tvg-country="PL",Boomerang
-https://tv.telewizja-online.xyz/Boomerang/index.m3u8
+http://194.76.186.151:20009/play/Boomerang_HD
 #EXTINF:0 type="stream" tvg-name="JimJam" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatjimjam.png" tvg-country="PL",JimJam
 http://92.233.53.80:8001/1:0:1:1cb7:1ce8:71:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Bbc Cbeebies" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cbeebieshd.png" tvg-country="PL",Bbc Cbeebies
@@ -334,7 +334,7 @@ http://internetowa.tv/?c=hlsPlay&channel=eskatv&token=213f9b5775ca164e0a38ad1b1a
 #EXTINF:0 type="stream" tvg-name="Eska TV Extra" tvg-logo="https://epg.ovh/logo/Eska+TV+Extra.png" tvg-country="PL",Eska TV Extra
 http://92.233.53.80:8001/1:0:1:429b:2bc0:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="EskaRock TV" tvg-logo="http://s19.postimg.cc/vorpzexlf/eska_rock.png" tvg-country="PL",Eska Rock TV
-http://92.233.53.80:8001/1:0:1:3d63:2c88:13E:820000:0:0:0:
+http://194.76.186.151:20009/play/EskaROCK_TV
 #EXTINF:0 type="stream" tvg-name="Polsat Music" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/polsatmusichd.png" tvg-country="PL",Polsat Music HD
 http://92.233.53.80:8001/1:0:1:4293:2bc0:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Viva Polska" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vivahd.png" tvg-country="PL",Viva Polska
@@ -352,7 +352,7 @@ http://92.233.53.80:8001/1:0:1:2:1964:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Mtv" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mtvhitshdfrance.png" tvg-country="PL",Mtv Hits
 http://92.233.53.80:8001/1:0:1:14A:157C:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Mtv Music Polska" tvg-logo="http://s19.postimg.cc/7pmbe0gpf/MTV_Polska.png" tvg-country="PL",Mtv Polska
-http://92.233.53.80:8001/1:0:1:23:1964:13E:820000:0:0:0:
+http://194.76.186.151:20010/play/MTV_Polska_HD
 #EXTINF:0 type="stream" tvg-name="Mtv Live HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mtvlivehd.png" tvg-country="PL",Mtv Live HD
 http://92.233.53.80:8001/1:0:1:1:1964:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Mtv Live HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mtvrocks.png" tvg-country="PL",Mtv Rocks
@@ -394,9 +394,9 @@ http://92.233.53.80:8001/1:0:1:4275:2BC0:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="PPV" tvg-logo="https://epg.ovh/logo/PPV+Polsat.png" tvg-country="PL",PPV
 http://internetowa.tv/?c=hlsPlay&channel=ppv&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:0 type="stream" tvg-name="XXX1" tvg-logo="https://epg.ovh/logo/xxxVOD1.png" tvg-country="PL",XXX1
-http://92.233.53.80:8001/1:0:1:427D:2BC0:13E:820000:0:0:0:
+http://92.233.53.80:8001/1:0:1:0043:1964:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="XXX2" tvg-logo="https://epg.ovh/logo/xxxVOD2.png" tvg-country="PL",XXX2
-http://92.233.53.80:8001/1:0:1:427E:2BC0:13E:820000:0:0:0:
+http://92.233.53.80:8001/1:0:1:0044:1964:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Zest TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/zesttv.png" tvg-country="PL",Zest TV
 http://92.233.53.80:8001/1:0:1:db3:2d50:13e:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="XXL" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/xxlpl.png" tvg-country="PL",XXL
@@ -416,9 +416,7 @@ http://92.233.53.80:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Hustler HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png" tvg-country="PL",Hustler HD
 http://92.233.53.80:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Brazzers TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/brazzerstv.png" tvg-country="PL",Brazzers TV
-http://92.233.53.80:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
-#EXTINF:0 type="stream" tvg-name="Brazzers TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/brazzerstv.png" tvg-country="PL",Brazzers TV Europe
-http://92.233.53.80:8001/1:0:16:1009:451:35:C00000:0:0:0:
+http://92.233.53.80:8001/1:0:1:4207:2F44:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Vivid Touch" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividtveurope.png" tvg-country="PL",Vivid TV Europe
 http://92.233.53.80:8001/1:0:16:FE0:451:35:C00000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Vivid Touch" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividtouch.png" tvg-country="PL",Vivid Touch
@@ -448,4 +446,16 @@ http://92.233.53.80:8001/1:0:1:35C8:1388:13E:820000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Beate Uhse TV" tvg-logo="",Beate Uhse TV
 http://92.233.53.80:8001/1:0:19:85:3:85:c00000:0:0:0:
 #EXTINF:0 type="stream" tvg-name="Playboy TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/playboytvhot.png" tvg-country="PL",Playboy TV
-http://92.233.53.80:8001/1:0:1:12C8:2E7C:13E:820000:0:0:0:
+http://92.233.53.80:8001/1:0:1:1135:2AF8:13E:820000:0:0:0:
+#EXTINF:0 type="stream" tvg-name="Brazzers TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/brazzerstv.png" tvg-country="PL",Brazzers TV
+http://194.76.186.151:20012/play/Brazzers_HD_AU
+#EXTINF:0 type="stream" tvg-name="Dorcel TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dorcelhd.png" tvg-country="PL",Dorcel TV
+http://194.76.186.151:20012/play/Dorcel_TV_HD_AU
+#EXTINF:0 type="stream" tvg-name="Hustler HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png" tvg-country="PL",Hustler HD
+http://194.76.186.151:20012/play/Hustler_HD_AU
+#EXTINF:0 type="stream" tvg-name="Private TV" tvg-logo="https://epg.ovh/logo/Private+TV+HD.png" tvg-country="PL",Private TV
+http://194.76.186.151:20012/play/Private_TV_HD_AU
+#EXTINF:0 type="stream" tvg-name="Redlight" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png" tvg-country="PL",Redlight
+http://194.76.186.151:20015/play/Redlight_HD_AU
+#EXTINF:0 type="stream" tvg-name="Vivid Red HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividred.png" tvg-country="PL",Vivid Red HD
+http://194.76.186.151:20015/play/Vivid_Red_HD_AU
