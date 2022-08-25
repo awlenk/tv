@@ -270,7 +270,7 @@ http://cdnx1.plusx.tv:8880/194/mono.m3u8?token=35961652592f488c012222
 http://cdnx1.plusx.tv:8880/261/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-id="Fightklub" tvg-name="Fightklub HD" tvg-logo="https://epg.ovh/logo/FIGHTKLUB.png" tvg-country="PL",Fightklub
 http://cdnx1.plusx.tv:8880/260/mono.m3u8?token=35961652592f488c012222
-#EXTINF:0 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports Channel HD tvg-logo="https://iptvextreme.org/picon/TRS/50x30/extremesportshd.png" tvg-country="PL",Extreme Sports
+#EXTINF:0 tvg-id="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/extremesportshd.png" tvg-country="PL",Extreme Sports
 http://cdnx1.plusx.tv:8880/262/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-id="Golf Channel" tvg-name="Golf Channel HD" tvg-logo="https://epg.ovh/logo/Golf+Channel.png" tvg-country="PL",Golf
 http://cdnx1.plusx.tv:8880/248/mono.m3u8?token=35961652592f488c012222
@@ -377,7 +377,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:0 tvg-id="Trace Urban" tvg-name="Trace Urban" tvg-logo="http://epg.ovh/logo/Trace+Urban.png" tvg-country="PL", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-id="VIVA Polska" tvg-name="VIVA Polska" tvg-logo="https://raw.githubusercontent.com/awlenk/tv/main/Viva.png" tvg-country="PL", VIVA Polska
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:0 tvg-id="Stars TV" tvg-name="Stars TV" tvg-logo="https://epg.ovh/logo/Stars.TV+HD.png" tvg-country="PL",Stars TV
 http://cdnx1.plusx.tv:8880/174/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-id="Nuta TV" tvg-name="Nuta TV HD" tvg-logo="https://groch.cloud/epg/logos/Nuta_TV_HD.png" tvg-country="PL",Nuta.TV
