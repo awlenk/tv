@@ -210,7 +210,7 @@ http://cdnx1.plusx.tv:8880/318/mono.m3u8?token=35961652592f488c012222
 http://cdnx1.plusx.tv:8880/197/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-id="ROMANCE TV" tvg-name="Romance TV HD" tvg-logo="https://epg.ovh/logo/ROMANCE+TV.png" tvg-country="PL",Romance TV
 http://cdnx1.plusx.tv:8880/178/mono.m3u8?token=35961652592f488c012222
-#EXTINF:0 tvg-id="NOVELA TV" tvg-name="NOVELA TV HD tvg-logo="https://epg.ovh/logo/NOVELA+TV.png" tvg-country="PL",Novela TV
+#EXTINF:0 tvg-id="NovelaTV" tvg-name="NovelaTV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/novelatv.png" audio-track="PL" tvg-country="PL", Novela TV
 http://cdnx1.plusx.tv:8880/217/mono.m3u8?token=35961652592f488c012222
 #EXTINF:0 tvg-id="TVP Polonia" tvg-name="TVP Polonia HD" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" tvg-country="PL",TVP Polonia
 http://cdnx1.plusx.tv:8880/137/mono.m3u8?token=35961652592f488c012222
