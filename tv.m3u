@@ -1,85 +1,65 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
-#EXTINF:0,4Fun TV
+#EXTINF:1.564,4Fun TV
 http://85.11.144.9:4222/4FunTV?token=test
-#EXTINF:0,4Fun Dance
+#EXTINF:1.596,4Fun Dance
 http://85.11.144.9:4222/4FunDance?token=test
-#EXTINF:0,Eska tv
+#EXTINF:2.83283,Eska tv
 http://54.39.17.6:80/eskatv/index.m3u8
-#EXTINF:0,Eska TV Extra
+#EXTINF:1.48608,Eska TV Extra
 http://54.39.17.6:80/eskatvextra/index.m3u8
-#EXTINF:0,Eska TV Rock
+#EXTINF:3.57588,Eska TV Rock
 http://54.39.17.6/eskarocktv/index.m3u8
-#EXTINF:0,Nuta TV
+#EXTINF:2.424,Nuta TV
 http://5.254.16.186/NutaTV/mono.m3u8
-#EXTINF:0,Clubbing TV
+#EXTINF:3.36,Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0,Techno Dance
+#EXTINF:2.446,Techno Dance
 http://hls.goodgame.ru/hls/180509.m3u8
 #EXTINF:0,MTV
 http://85.11.144.9:4222/MTV?token=test
-#EXTINF:0,MTV 00s
-http://45.92.69.72:8000/play/a0hf
-#EXTINF:0,MTV 00s
-http://85.11.144.9:4222/VH1?token=test
-#EXTINF:0,MTV 00s
+#EXTINF:2.73067,MTV 00s
 http://iptv.prosto.tv:7000/ch129/video.m3u8
-#EXTINF:0,MTV 80s
-http://85.11.144.9:4222/VH1Classic?token=test
-#EXTINF:0,MTV 80s
+#EXTINF:3.136,MTV 80s
 http://iptv.prosto.tv:7000/ch130/video.m3u8
-#EXTINF:0,MTV 90s
+#EXTINF:3.128,MTV 90s
 http://85.11.144.9:4222/MTVRocks?token=test
-#EXTINF:0,MTV 90s
+#EXTINF:2.09067,MTV 90s
 http://iptv.prosto.tv:7000/ch127/video.m3u8
-#EXTINF:0,MTV Biggest Pop HD
+#EXTINF:0.895566,MTV Biggest Pop HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0,MTV Block Party
+#EXTINF:1.08817,MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0,MTV Club
+#EXTINF:0.981333,MTV Club
 http://iptv.prosto.tv:7000/ch125/video.m3u8
-#EXTINF:0,MTV Club
+#EXTINF:0.981378,MTV Club
 http://85.11.144.9:4222/MTVDance?token=test
-#EXTINF:0,MTV Hits
-http://190.2.155.162:8080/mtvhit/mpegts
-#EXTINF:0,MTV Hits
+#EXTINF:1.996,MTV Hits
 http://85.11.144.9:4222/MTVHits?token=test
-#EXTINF:0,MTV Hits
+#EXTINF:1.30133,MTV Hits
 http://iptv.prosto.tv:7000/ch126/video.m3u8
-#EXTINF:0,MTV Hits France
-http://190.2.155.162:8080/mtvhit/index.m3u8
-#EXTINF:0,MTV Portugal
-http://45.92.69.72:8000/play/a0h7
-#EXTINF:0,MTV Spankin' New
+#EXTINF:1.4887,MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:0,MTV Yo! HD
+#EXTINF:2.2208,MTV Yo! HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-#EXTINF:0,NRG 91 TV HD
+#EXTINF:2.34522,NRG 91 TV HD
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8?seg-user-4pda-denms-ru-v1-a1
-#EXTINF:0,Radio Ibiza TV
+#EXTINF:1.40567,Radio Ibiza TV
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
-#EXTINF:0,VIVA
+#EXTINF:1.13109,VIVA
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0,Viva Russia HD
+#EXTINF:0.92,Viva Russia HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:0,Trace Urban HD
-http://45.92.69.72:8000/play/a0ig
-#EXTINF:0,Trace Urban HD
+#EXTINF:1.52,Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,Eurodance 90 HD
-http://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:0,MCM Pop
-http://45.92.69.72:8000/play/a0jp
-#EXTINF:0,MCM Top
+#EXTINF:0.712,MCM Top
 http://37.17.14.149:8906/play/a00f
-#EXTINF:0,Music HD
-http://83.222.205.65:8080/tntmusic/index.m3u8
-#EXTINF:0,Xite TV HD
+#EXTINF:1.59133,Xite TV HD
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
-#EXTINF:0,POLO TV
+#EXTINF:2.9,POLO TV
 http://54.39.17.6/polotv/index.m3u8
-#EXTINF:0,DFM - Club
+#EXTINF:1.02168,DFM - Club
 http://dfm.hostingradio.ru/dfmclub96.aacp
-#EXTINF:0,DFM - Insomnia
+#EXTINF:1.02168,DFM - Insomnia
 http://dfm.hostingradio.ru/insomnia96.aacp
-#EXTINF:0,Rmf FM
+#EXTINF:2.58612,Rmf FM
 http://195.150.20.242:8000/rmf_fm
